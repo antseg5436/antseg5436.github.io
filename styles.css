@@ -2,7 +2,7 @@
 /*MAIN*/
 body {
   margin: 0;
-  background-image: url("papel.png");
+  background-image: url("img/papel.png");
   background-repeat: repeat-y;
   background-size: cover;
   max-width: 100vw;
