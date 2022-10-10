@@ -4,7 +4,7 @@ body {
   margin: 0;
   background-image: url("img/papel.png");
   background-repeat: repeat-y;
-  background-size: cover;
+  background-size: contain;
   max-width: 100vw;
 }
 
