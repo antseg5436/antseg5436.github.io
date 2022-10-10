@@ -111,7 +111,7 @@ footer {
 
   .img-container img {
     width: 45vw;
-    height: 50vw;
+    height: 40vw;
   }
 
   #header-background {
@@ -124,7 +124,7 @@ footer {
 @media only screen and (min-width: 1200px) {
   .img-container img {
     width: 22.5vw;
-    height: 25vw;
+    height: 20vw;
   }
 }
 
@@ -133,6 +133,6 @@ footer {
 @media only screen and (min-width: 2400px) {
   .img-container img {
     width:11.25vw;
-    height: 12.5vw;
+    height: 10vw;
   }
 }
